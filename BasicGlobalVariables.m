@@ -1,7 +1,7 @@
 % BasicGlobalVariables.m
 
 global X Y Z
-X = 1;
+X = 10;
 Y = 2;
 Z = 3;
 
